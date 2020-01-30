@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/monter-rodolex/static/css/main.7768a6e2.chunk.css",
+    "main.js": "/monter-rodolex/static/js/main.3db0be8e.chunk.js",
+    "main.js.map": "/monter-rodolex/static/js/main.3db0be8e.chunk.js.map",
+    "runtime-main.js": "/monter-rodolex/static/js/runtime-main.9d192401.js",
+    "runtime-main.js.map": "/monter-rodolex/static/js/runtime-main.9d192401.js.map",
+    "static/js/2.7db90bec.chunk.js": "/monter-rodolex/static/js/2.7db90bec.chunk.js",
+    "static/js/2.7db90bec.chunk.js.map": "/monter-rodolex/static/js/2.7db90bec.chunk.js.map",
+    "index.html": "/monter-rodolex/index.html",
+    "precache-manifest.8f367b5997ea43851bd66b6d0603bdf5.js": "/monter-rodolex/precache-manifest.8f367b5997ea43851bd66b6d0603bdf5.js",
+    "service-worker.js": "/monter-rodolex/service-worker.js",
+    "static/css/main.7768a6e2.chunk.css.map": "/monter-rodolex/static/css/main.7768a6e2.chunk.css.map",
+    "static/js/2.7db90bec.chunk.js.LICENSE": "/monter-rodolex/static/js/2.7db90bec.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9d192401.js",
+    "static/js/2.7db90bec.chunk.js",
+    "static/css/main.7768a6e2.chunk.css",
+    "static/js/main.3db0be8e.chunk.js"
+  ]
+}
